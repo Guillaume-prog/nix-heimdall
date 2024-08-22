@@ -2,7 +2,7 @@
 
 # Nix Heimdall
 
-Basic nix flake to use [Grimler's Heimdall](https://git.sr.ht/~grimler/Heimdall)
+Basic nix flake to use [Grimler's Heimdall](https://git.sr.ht/~grimler/Heimdall), a software for flashing custom recoveries onto Samsung devices.
 
 ## Basic use
 
